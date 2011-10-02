@@ -1,0 +1,16 @@
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\ContactDB.mdf
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\ContactDB_log.ldf
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe.config
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.pdb
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.Form1.resources
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.exe
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.pdb
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Release\Contacts.application
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.exe.manifest
+C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Release\Contacts.application
