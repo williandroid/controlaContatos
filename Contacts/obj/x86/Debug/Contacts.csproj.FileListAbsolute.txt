@@ -14,3 +14,6 @@ C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Deb
 C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\bin\Debug\Contacts.application
 C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe.manifest
 C:\Users\Willian\documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.application
+C:\Users\Willian\controlaContatos\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Willian\controlaContatos\Contacts\obj\x86\Debug\Contacts.exe
+C:\Users\Willian\controlaContatos\Contacts\obj\x86\Debug\Contacts.pdb

@@ -62,6 +62,7 @@
             this.emailTextBox = new System.Windows.Forms.TextBox();
             this.clientCheckBox = new System.Windows.Forms.CheckBox();
             this.lastCallDateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.button1 = new System.Windows.Forms.Button();
             contactIDLabel = new System.Windows.Forms.Label();
             nameLabel = new System.Windows.Forms.Label();
             companyLabel = new System.Windows.Forms.Label();
@@ -351,12 +352,22 @@
             this.lastCallDateTimePicker.Size = new System.Drawing.Size(200, 20);
             this.lastCallDateTimePicker.TabIndex = 15;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(231, 63);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "Botão 1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
             this.ClientSize = new System.Drawing.Size(523, 287);
+            this.Controls.Add(this.button1);
             this.Controls.Add(lastCallLabel);
             this.Controls.Add(this.lastCallDateTimePicker);
             this.Controls.Add(clientLabel);
@@ -416,6 +427,7 @@
         private System.Windows.Forms.TextBox emailTextBox;
         private System.Windows.Forms.CheckBox clientCheckBox;
         private System.Windows.Forms.DateTimePicker lastCallDateTimePicker;
+        private System.Windows.Forms.Button button1;
     }
 }
 
